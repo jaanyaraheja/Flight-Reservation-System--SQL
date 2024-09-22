@@ -1,6 +1,3 @@
-REM   Script: analysis final
-REM   sdf
-
 CREATE TABLE Airlines ( 
     airline_id NUMBER(10) PRIMARY KEY, 
     airline_name VARCHAR2(255) NOT NULL, 
